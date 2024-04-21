@@ -1,8 +1,8 @@
 """
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
-author: Petr Svetr
-email: petr.svetr@gmail.com
-discord: Petr Svetr#4490
+projekt_1.py: druhý projekt do Engeto Online Python Akademie
+author: Martin Vopalecky
+email: mvopale@email.cz
+discord: martin_21315
 """
 
 import random
